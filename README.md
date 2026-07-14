@@ -13,10 +13,6 @@
 [![Email](https://img.shields.io/badge/Email-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:namanshetty2909@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-A78BFA?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Hardboi99)
 
-![Profile Views](https://komarev.com/ghpvc/?username=Hardboi99&color=8b5cf6&style=for-the-badge&label=PROFILE+VIEWS)
-![Followers](https://img.shields.io/github/followers/Hardboi99?label=FOLLOWERS&style=for-the-badge&color=6366f1&logo=github)
-![Stars](https://img.shields.io/github/stars/Hardboi99?label=STARS&style=for-the-badge&color=a78bfa&logo=github)
-
 </div>
 
 ---
