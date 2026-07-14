@@ -140,8 +140,7 @@ Modular AI assistant built at a hackathon using Retrieval-Augmented Generation a
 | Provider | Credential | When |
 |---|---|---|
 | GeeksforGeeks (SkillUp) | Generative AI, LLM & RAG | Sep 2025 – Present |
-| GeeksforGeeks (SkillUp) | Java Programming | Feb 2026 – Present |
-| GeeksforGeeks | Front-End Web Dev Bootcamp — JS, HTML5/CSS3, React, TypeScript Fundamentals, Git | — |
+| GeeksforGeeks & Udemy | Front-End Web Dev Bootcamp — JS, HTML5/CSS3, React, TypeScript Fundamentals, Git | — |
 | Anudip Foundation | Advanced Java Programming | Aug 2024 – 2025 |
 | Seed Infotech | Core Java Programming | Mar – May 2023 |
 | Infosys Springboard | Python Programming | Jan – Feb 2022 |
