@@ -1,92 +1,79 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,50:8B5CF6,100:A78BFA&height=200&section=header&text=Naman%20Shetty&fontSize=46&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20AI%2FML%20Enthusiast&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0B1E,50:5B4FE0,100:9D7CFF&height=210&section=header&text=Naman%20Shetty&fontSize=48&fontColor=F3E8D0&animation=twinkling&fontAlignY=36&desc=Full%20Stack%20Developer%20-%20Building%20end-to-end%20web%20apps&descAlignY=54&descSize=17" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Building+scalable+full+stack+web+apps;React.js+%7C+Node.js+%7C+Express+%7C+MongoDB+%7C+MySQL;Exploring+AI%2FML+%2C+RAG+%26+Generative+AI;Open+to+Full+Stack+%2F+SDE+Roles" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=C4B5FD&center=true&vCenter=true&width=560&lines=Full+Stack+Developer;React.js+%2F+Node.js+%2F+MongoDB+%2F+MySQL;Actively+exploring+AI%2FML+%26+RAG" alt="Typing SVG"/>
 </a>
 
-![Open to Work](https://img.shields.io/badge/Open%20to%20Work-8B5CF6?style=for-the-badge&logo=handshake&logoColor=white)
-![Location](https://img.shields.io/badge/Mumbai,%20India-6366F1?style=for-the-badge&logo=googlemaps&logoColor=white)
+<sub>◆ ◆ ◆</sub>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-6366F1?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naman-shetty-4b66a91b9)
-[![Email](https://img.shields.io/badge/Email-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:namanshetty2909@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-A78BFA?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Hardboi99)
+![Open to Work](https://img.shields.io/badge/OPEN%20TO%20WORK-C9A876?style=for-the-badge)
+![Location](https://img.shields.io/badge/MUMBAI%20INDIA-6366F1?style=for-the-badge&logo=googlemaps&logoColor=white)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naman-shetty-4b66a91b9)
+[![Email](https://img.shields.io/badge/Email-6366F1?style=for-the-badge&logo=gmail&logoColor=white)](mailto:namanshetty2909@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-9D7CFF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Hardboi99)
 
 </div>
 
 ---
 
-### 🧠 Who I Am
+### ◆ About
+
+Full Stack Developer who builds scalable web apps end-to-end — from responsive React interfaces to REST APIs backed by MongoDB and MySQL. Currently deepening my AI/ML skills through applied projects in computer vision and Retrieval-Augmented Generation.
+
+- 🔭 **Building:** an AI automation agent for hotel operations, using n8n
+- 🌱 **Learning:** Generative AI, LLM & RAG engineering (GeeksforGeeks)
+- 🎯 **Open to:** Full Stack Developer & SDE roles
 
 ```typescript
 const naman = {
-  title: "Full Stack Developer",
-  based_in: "Mumbai, India",
-  education: "B.E. Computer Engineering @ YTIET, Karjat (Expected 2026)",
-  stack: ["JavaScript (ES6+)", "Python", "React.js", "Node.js", "Express.js", "MongoDB", "MySQL"],
-  launchedProjects: [
-    "Restaurant Ordering & Reservation Platform",
-    "Eagle Infra India — Official Website",
-    "Emotion-Based Movie Recommendation System",
-    "UniPrep — AI Academic Assistant"
-  ],
-  certifications: [
-    "Generative AI, LLM & RAG — GeeksforGeeks",
-    "Java Programming — GeeksforGeeks",
-    "Advanced Java Programming — Anudip Foundation",
-    "Core Java Programming — Seed Infotech",
-    "Python Programming — Infosys Springboard",
-    "Full Stack Web Development — Udemy"
-  ],
-  status: "Actively job searching 🟢",
-  openTo: ["Full Stack Developer Roles", "SDE Internships/New-Grad", "AI-integrated Web Projects"]
+  role: "Full Stack Developer",
+  location: "Mumbai, India",
+  education: "B.E. Computer Engineering, YTIET — Class of 2026",
+  coreStack: ["JavaScript", "React.js", "Node.js", "Express.js", "MongoDB", "MySQL"],
+  status: "Open to full-time & internship opportunities 🟢",
 };
 ```
 
-Full Stack Developer with hands-on experience building scalable web applications using React.js, Node.js, REST APIs, and SQL/NoSQL databases. Comfortable across the stack — from responsive UI design to backend API integration and query optimization. Experienced in Agile teams, Git-based workflows, and increasingly exploring the AI/ML side of engineering through Retrieval-Augmented Generation and computer vision projects.
-
 ---
 
-### 🛠️ Tech Stack
+### ◆ Tech Stack
+
+<div align="center">
 
 **Languages**
-<p><img src="https://skillicons.dev/icons?i=js,py,java,html,css" /></p>
+<br/>
+<img src="https://skillicons.dev/icons?i=js,java,py,html,css" />
 
 **Frontend**
-<p><img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" /></p>
+<br/>
+<img src="https://skillicons.dev/icons?i=react,nextjs" />
 
 **Backend & Databases**
-<p><img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,sqlite" /></p>
+<br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,sqlite" />
 
-**Tools & Concepts**
-<p><img src="https://skillicons.dev/icons?i=git,github,vscode,postman" /></p>
+**Tools**
+<br/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
 
----
+<sub><b>AI/ML exposure</b> — Computer Vision (OpenCV) · CNN, TensorFlow & XGBoost · Retrieval-Augmented Generation (Gemini API) · NumPy / Pandas</sub>
 
-### 🤖 AI / ML Exposure
-
-| Domain | Proficiency | Details |
-|---|---|---|
-| Computer Vision | Intermediate | Real-time facial emotion recognition with OpenCV |
-| Deep Learning | Intermediate | CNN, TensorFlow for classification tasks |
-| Retrieval-Augmented Generation | Intermediate | Built a RAG-based academic assistant using Gemini API |
-| Data Handling | Intermediate | NumPy, Pandas for preprocessing pipelines |
-| Automation | Beginner–Intermediate | n8n workflow automation for business use cases |
+</div>
 
 ---
 
-### 🚀 Featured Projects
+### ◆ Featured Projects
 
-<details>
+<details open>
 <summary><b>🍽️ Restaurant Ordering & Reservation Platform</b></summary>
 <br>
 
-Full-stack restaurant website delivered for a client, featuring premium UI/UX, real-time cart functionality, dynamic pricing, table reservation, and secure payment integration.
+Full-stack restaurant platform built for a client — real-time cart, dynamic pricing, table reservations, and secure payment integration, delivered with a premium UI/UX.
 
-| Stack | Live | Repository |
-|---|---|---|
-| Node.js, Express, MongoDB, React | <!-- add live demo link --> | <!-- add repo link --> |
+`Node.js` `Express` `MongoDB` `React`  ·  [Live Demo](https://hotel4-k2ry.onrender.com/)
 
 </details>
 
@@ -94,11 +81,19 @@ Full-stack restaurant website delivered for a client, featuring premium UI/UX, r
 <summary><b>🏗️ Eagle Infra India — Official Website</b></summary>
 <br>
 
-Professional 2–3 page corporate website built for Eagle Infra India Limited, showcasing its infrastructure portfolio and business verticals with a responsive, accessible frontend and secure backend.
+Professional corporate website for Eagle Infra India Limited (Jun – Jul 2025) — responsive, accessible, and built with a secure backend to showcase the company's infrastructure portfolio and business verticals.
 
-| Stack | Live | Repository |
-|---|---|---|
-| HTML, CSS, JavaScript | <!-- add live site link --> | <!-- add repo link --> |
+`HTML` `CSS` `JavaScript`  ·  [Live Site](https://www.eagleinfraindialtd.com/)
+
+</details>
+
+<details>
+<summary><b>✈️ Explore2Go — Travel Website</b></summary>
+<br>
+
+Responsive travel platform for exploring and booking travel packages, with REST APIs and MySQL integration for managing listings and bookings, tuned for frontend performance.
+
+`React.js` `Node.js` `MySQL` `REST APIs`
 
 </details>
 
@@ -106,11 +101,9 @@ Professional 2–3 page corporate website built for Eagle Infra India Limited, s
 <summary><b>🎬 Emotion-Based Movie Recommendation System</b></summary>
 <br>
 
-AI system that recommends personalized movies using real-time facial emotion recognition, built with OpenCV and TensorFlow, delivered through an interactive Streamlit app.
+Real-time facial emotion recognition system that recommends personalized movies, with ML-based classification and NumPy-optimized preprocessing, delivered through an interactive Streamlit app.
 
-| Stack | Live | Repository |
-|---|---|---|
-| Python, OpenCV, TensorFlow, Streamlit | — | <!-- add repo link --> |
+`Python` `OpenCV` `TensorFlow` `Streamlit`
 
 </details>
 
@@ -118,120 +111,82 @@ AI system that recommends personalized movies using real-time facial emotion rec
 <summary><b>📚 UniPrep — AI Academic Assistant</b></summary>
 <br>
 
-Modular AI assistant built at a hackathon using Retrieval-Augmented Generation and the Gemini API, delivering context-aware, structured responses under tight time constraints.
+Modular AI assistant built at a hackathon using Retrieval-Augmented Generation and the Gemini API — context-aware, structured responses under tight time constraints.
 
-| Stack | Live | Repository |
-|---|---|---|
-| Python, RAG, Gemini API | — | <!-- add repo link --> |
+`Python` `RAG` `Gemini API`
 
 </details>
 
-<details>
-<summary><b>🏨 AI Automation Agent — Manish Garden Hotel (In Progress)</b></summary>
-<br>
-
-AI-powered automation agent using n8n to manage hotel inquiries and operational workflows, reducing manual tasks.
-
-| Stack | Live | Repository |
-|---|---|---|
-| n8n, AI APIs | — | <!-- add repo link --> |
-
-</details>
+**Other projects:**
+- **Clinic Prescription Schedule Generator** — automated medicine scheduling & printable prescriptions for a homoeopathic clinic · `HTML` `CSS` `JavaScript`
+- **AI Automation Agent — Manish Garden Hotel** *(in progress)* — n8n-based agent for hotel inquiries & operational workflows · `n8n` `AI APIs`
 
 ---
 
-### 💼 Experience
+### ◆ Experience
 
 **Web Development Intern** — YTIET TPO Cell, Karjat, India
 `May 2024 – Jul 2024`
 
-- Architected and delivered two production-ready full stack web applications using React.js and Node.js/Express, improving usability and client demo success rates.
-- Designed and integrated REST APIs with MySQL databases; optimized queries to reduce average response time and increase throughput.
-- Led debugging and refactoring sessions using Git, cutting runtime errors and enabling cleaner feature deployments.
-- Collaborated in a 4-member Agile team, participating in code reviews and cross-functional coordination.
-
-`React.js` `Node.js` `Express` `MySQL` `REST APIs` `Git` `Agile`
+- Architected and delivered two production-ready full stack apps with React.js and Node.js/Express, improving client demo success rates.
+- Integrated REST APIs with MySQL, optimizing queries to cut average response time and raise throughput.
+- Led debugging and refactoring with Git, reducing runtime errors and easing feature deployments.
+- Collaborated in a 4-member Agile team through code reviews and cross-functional coordination.
 
 ---
 
-### 🏆 Achievements
+### ◆ Certifications & Recognition
+
+| Provider | Credential | When |
+|---|---|---|
+| GeeksforGeeks (SkillUp) | Generative AI, LLM & RAG | Sep 2025 – Present |
+| GeeksforGeeks (SkillUp) | Java Programming | Feb 2026 – Present |
+| GeeksforGeeks | Front-End Web Dev Bootcamp — JS, HTML5/CSS3, React, TypeScript Fundamentals, Git | — |
+| Anudip Foundation | Advanced Java Programming | Aug 2024 – 2025 |
+| Seed Infotech | Core Java Programming | Mar – May 2023 |
+| Infosys Springboard | Python Programming | Jan – Feb 2022 |
+| Udemy (Angela Yu) | Full Stack Web Development | Jul – Dec 2022 |
+
+🥋 **State-Level Karate Champion & Black Belt** — Shotokan Karate Do Indian Association
+🎯 **Volunteer Coordinator** — college cultural & technical events
+
+---
+
+### ◆ GitHub Analytics
 
 <div align="center">
 
-| Recognition | Details |
-|---|---|
-| 🥋 State-Level Karate Champion | Black Belt, Shotokan Karate Do Indian Association |
-| 🎯 Volunteer Coordinator | Managed team logistics for college cultural & technical events |
+<img src="https://github-stats-extended.vercel.app/api?username=Hardboi99&show_icons=true&hide_border=true&bg_color=0D1117&title_color=C9A876&icon_color=8B5CF6&text_color=E4DEF5" width="48%"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Hardboi99&layout=compact&hide_border=true&bg_color=0D1117&title_color=C9A876&text_color=E4DEF5" width="48%"/>
+
+<img src="https://streak-stats.demolab.com?user=Hardboi99&hide_border=true&background=0D1117&ring=8B5CF6&fire=C9A876&currStreakLabel=C9A876&sideLabels=E4DEF5&currStreakNum=E4DEF5&sideNums=E4DEF5&dates=7C7C8A" width="70%"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Hardboi99&hide_border=true&bg_color=0D1117&color=C9A876&line=8B5CF6&point=E4DEF5&area=true&area_color=8B5CF6" width="100%"/>
 
 </div>
 
 ---
 
-### 📜 Certifications
-
-**GeeksforGeeks**
-![GenAI](https://img.shields.io/badge/Generative%20AI,%20LLM%20%26%20RAG-6366F1?style=flat-square&logo=googlegemini&logoColor=white)
-![Java](https://img.shields.io/badge/Java%20Programming-8B5CF6?style=flat-square&logo=java&logoColor=white)
-
-**Anudip Foundation / Seed Infotech**
-![Advanced Java](https://img.shields.io/badge/Advanced%20Java%20Programming-A78BFA?style=flat-square&logo=java&logoColor=white)
-![Core Java](https://img.shields.io/badge/Core%20Java%20Programming-6366F1?style=flat-square&logo=java&logoColor=white)
-
-**Infosys Springboard / Udemy**
-![Python](https://img.shields.io/badge/Python%20Programming-8B5CF6?style=flat-square&logo=python&logoColor=white)
-![Full Stack](https://img.shields.io/badge/Full%20Stack%20Web%20Development-A78BFA?style=flat-square&logo=udemy&logoColor=white)
-
----
-
-### 📊 GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Hardboi99&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=A78BFA&text_color=c9d1d9" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hardboi99&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=c9d1d9" width="48%"/>
-
-<img src="https://streak-stats.demolab.com?user=Hardboi99&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=8B5CF6" width="70%"/>
-
-</div>
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Hardboi99&theme=discord&no-frame=true&no-bg=true&margin-w=10&column=7" width="90%"/>
-</div>
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Hardboi99&theme=react-dark&hide_border=true&bg_color=0D1117&color=A78BFA&line=8B5CF6&point=ffffff" width="100%"/>
-</div>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
-  <img alt="snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
-</picture>
-
----
-
-### 🎯 Current Focus
+### ◆ Current Focus
 
 ```yaml
-learning:  ["Generative AI & LLM Engineering", "Advanced Java", "System Design Fundamentals"]
-building:  ["AI Automation Agent for Manish Garden Hotel"]
-exploring: ["RAG pipelines", "Agentic workflows with n8n"]
-openTo:    ["Full Stack Developer Roles", "SDE Internships / New-Grad Positions"]
+building:  AI automation agent for hotel operations — n8n
+learning:  Generative AI, LLM & RAG engineering
+open_to:   Full Stack Developer & SDE roles
 ```
 
 ---
 
-### 📬 Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-6366F1?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naman-shetty-4b66a91b9)
-[![Gmail](https://img.shields.io/badge/Gmail-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:namanshetty2909@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-A78BFA?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Hardboi99)
-
----
+### ◆ Connect
 
 <div align="center">
 
-*"Writing code that ships, and learning something new with every commit."*
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naman-shetty-4b66a91b9)
+[![Email](https://img.shields.io/badge/Email-6366F1?style=for-the-badge&logo=gmail&logoColor=white)](mailto:namanshetty2909@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-9D7CFF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Hardboi99)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:A78BFA,50:8B5CF6,100:6366F1&height=120&section=footer" width="100%"/>
+*Writing code that ships, and learning something new with every commit.*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:9D7CFF,50:5B4FE0,100:0B0B1E&height=130&section=footer" width="100%"/>
 
 </div>
